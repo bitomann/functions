@@ -22,6 +22,6 @@ def calc_coins():
 
     piggyBank["pennies"] = math.floor(dollarAmount)
 
-print({ 'quarters': 34, 'dimes': 1, 'nickels': 1, 'pennies': 4 })
-calc_coins()
+    calc_coins()
+print()
 
