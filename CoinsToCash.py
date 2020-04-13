@@ -15,3 +15,7 @@ def calc_dollars(**coins):
     print(f"There is ${dollarAmount} in my account! ")
 
 calc_dollars(pennies=342, nickels=9, dimes=32, quarters=4)
+
+
+
+dollarAmount = 8.69
